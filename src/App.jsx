@@ -14,7 +14,7 @@ import List from "../src/admin/pages/List/List";
 import Users from "./admin/pages/Users/User";
 import Orders from "../src/admin/pages/Orders/Orders";
 import "./index.css";
-
+//for run admin use this   http://localhost:5173/admin
 import MainLayout from "./MainLayout";
 
 const App = () => {
