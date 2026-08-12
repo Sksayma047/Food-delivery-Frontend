@@ -12,7 +12,7 @@
 .food-item-img-container{
     position: relative;
 }
-.food-item-img-container .add{
+.food-item-img-container .food-item-add{
     width: 35px;
     position: absolute;
     bottom: 15px;
@@ -20,7 +20,7 @@
     cursor: pointer;
     border-radius: 50%;
 }
-.food-item-img-container .add:hover{
+.food-item-img-container .food-item-add:hover{
     border: 2px solid #FF4C24;
 }
 .food-item-image{
